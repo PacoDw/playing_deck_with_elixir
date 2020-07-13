@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+Basic project to learn basic concept of the Elixir.
 
 ## Installation
 
